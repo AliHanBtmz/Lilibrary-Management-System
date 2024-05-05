@@ -5,30 +5,24 @@ In the project, the library system keeps the book name, author's name, first pub
 We have 4 windows: main menu, add book menu, delete book menu and show menu to see all in the list. I wanted to put a few photos from the application below.</h3>
 
 <!-- Resim 1 -->
-<p align="center">
-  <img src="https://github.com/AliHanBtmz/Python_Project/blob/main/Lilibrary%20Management%20System/icons/1.%20MainMen%C3%BC.png" alt="Main Menu" width="400"/>
-</p>
+
+ 
+  
+   ![1  MainMenü](https://github.com/AliHanBtmz/Lilibrary-Management-System/assets/132774344/e6f1935b-f7c3-43db-bc05-9135941ef57d) 
+ 
 
 
-<!-- Resim 2 -->
-<p align="center">
-  <img src="https://github.com/AliHanBtmz/Python_Project/blob/main/Lilibrary%20Management%20System/icons/2.%20ADD%20men%C3%BC.png" alt="Add Menu" width="400"/>
-</p>
+ 
+ ![2  ADD menü](https://github.com/AliHanBtmz/Lilibrary-Management-System/assets/132774344/cead1a1c-15f2-4a16-90db-8ba085389d9a) 
+
+ 
+
+
+ ![3  remove menü](https://github.com/AliHanBtmz/Lilibrary-Management-System/assets/132774344/d903729f-7973-429d-bebe-803af6fd591a)
 
 
 
-
-<!-- Resim 3-->
-<p align="center">
-  <img src="https://github.com/AliHanBtmz/Python_Project/blob/main/Lilibrary%20Management%20System/icons/3.%20remove%20men%C3%BC.png" alt="Add Menu" width="400"/>
-</p>
-
-
-<!-- Resim 4-->
-<p align="center">
-  <img src="https://github.com/AliHanBtmz/Python_Project/blob/main/Lilibrary%20Management%20System/icons/4.%20show%20Men%C3%BC.png" alt="Add Menu" width="400"/>
-</p>
-
+![4  show Menü](https://github.com/AliHanBtmz/Lilibrary-Management-System/assets/132774344/05163f4e-885d-46fb-af94-415807e4f034)
 
 
 
